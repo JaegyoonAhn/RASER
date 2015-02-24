@@ -1,6 +1,6 @@
 # RASER
 RASER: Reads Aligner for SNPs and Editing sites of RNA
 
-You can download RASER source code and manual document through release link.
+You can download source code and manual of RASER in the release menu.
 
-Please visit https://www.ibp.ucla.edu/research/xiao/RASER.html for download pre-built index file.
+Please visit https://www.ibp.ucla.edu/research/xiao/RASER.html to download pre-built index file.
